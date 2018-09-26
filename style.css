@@ -38,6 +38,12 @@ li:hover li a:hover { background: #2c3e50; }
 .main-navigation li ul li { 
   border-top: 0; 
 }
+
+.fas{
+  color: red;
+  font-size: 1.25em;
+  display: flex;
+}
 .main-navigation{
   display: flex;
   justify-content: center;
